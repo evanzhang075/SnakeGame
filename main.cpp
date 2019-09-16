@@ -65,7 +65,7 @@ void Draw()
                 {
                     if(TailX[k] == j && TailY[k] == i)
                     {
-                        mvprintw(i, j, "o");
+                        mvprintw(i, j, "|");
                     }
                 }
             }
